@@ -180,14 +180,14 @@ header {
 /* about */
 .about {
     max-width: 1200px;
+    height: 100vh;
     margin : auto;
-    padding: 6rem 0;
+    padding: 15rem 0;
 }
 
 #about {
     width: 100%;
     height: 100vh;
-    margin-top: 150px;
 }
 
 .about__main{
