@@ -210,8 +210,8 @@ header {
 }
 
 .about__card > i:hover , .about__card > img:hover {
-    transform: rotate(0.15turn);
-    transition: 250ms ease-in all;
+    transform: rotate(1turn);
+    transition: 500ms ease-in all;
     scale: 1.1;
 }
 
