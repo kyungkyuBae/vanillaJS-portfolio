@@ -14,7 +14,7 @@
 
 ## 배포 주소
 
-> **개발 버전** : 깃허브로 배포 예정 <br>
+> **개발 버전** : https://kyungkyubae.github.io/vanillaJS-portfolio/ <br>
 
 
 ## 개발자 소개
