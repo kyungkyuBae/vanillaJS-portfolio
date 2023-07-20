@@ -577,3 +577,17 @@ header {
 .footer__title, .footer--links{
     font-size: 4rem;
 }
+
+/* arrow-up */
+
+.arrow-up {
+    position: fixed;
+    bottom: 3rem;
+    right: 3rem;
+    font-size: 3rem;
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 100%;
+    text-align: center;
+    background-color: rgb(234, 235, 238);
+}
