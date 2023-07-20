@@ -2,7 +2,7 @@
 :root {
     font-size: 10px;
     /* App Colors */
-    --color-primary: var(--color-black);
+    --color-primary: var(rgb(255, 138, 61));
     --color-primary-variant : var(--color-gray);
     --color-accent: var(--color-blue);
     --color-accent-variant: var(--color-orange);
@@ -106,12 +106,14 @@ header {
 }
 
 .nav__item:hover {
-    border-bottom : 1px solid var(--color-accent);
+    border-bottom : 5px solid var(--color-backgroundcolor);
 
 }
 
 .nav__item.active {
-    border : 1px solid var(--color-accent);
+
+    border : 2px solid var(--color-backgroundcolor);
+    background-color: var(--color-backgroundcolor);
     border-radius: 8px; 
 
 }
